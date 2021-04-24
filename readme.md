@@ -1,12 +1,10 @@
 <h2 align="center">My Blog</h2>
 
 <p align="center">
-  <samp>
-    <a target="_blank" href="https://github.com/pinocchioooooo/blog">blog</a> · 
-    <a target="_blank" href="https://leetcode-cn.com/u/pinocchioooo">leetcode</a> ·  
-    <a target="_blank" href="https://juejin.cn/user/2682464101477742">juejin</a> · 
-    <a target="_blank" href="https://weibo.com">weibo</a>
-  </samp>
+  <a target="_blank" href="https://github.com/pinocchioooooo/blog">blog</a> · 
+  <a target="_blank" href="https://leetcode-cn.com/u/pinocchioooo">leetcode</a> ·  
+  <a target="_blank" href="https://juejin.cn/user/2682464101477742">juejin</a> · 
+  <a target="_blank" href="https://weibo.com">weibo</a>
 </p>
 
 ## ✍🏻 前言
@@ -18,7 +16,7 @@
 - 谈谈系列
   - [谈谈对事件循环的理解]()
 - 写写系列
-  - [写写 bind 函数]()
+  - <a href="./写写系列/写写 bind 函数.md">写写 bind 函数</a>
 - 算法系列
 - 实用技巧
   - [创建固定比例的盒子]()
