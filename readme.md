@@ -1,9 +1,28 @@
-# Blog
+<h2 align="center">My Blog</h2>
 
-一个前端开发者的个人博客，用于学习和搭建知识仓库
+<p align="center">
+  <samp>
+    <a target="_blank" href="https://github.com/pinocchioooooo/blog">blog</a> · 
+    <a target="_blank" href="https://leetcode-cn.com/u/pinocchioooo">leetcode</a> ·  
+    <a target="_blank" href="https://juejin.cn/user/2682464101477742">juejin</a> · 
+    <a target="_blank" href="https://weibo.com">weibo</a>
+  </samp>
+</p>
 
-## 前言
+## ✍🏻 前言
 
-## 后记
+一个前端开发者的个人博客，用于学习和搭建知识仓库。
 
-- 排版：此博客所有内容按照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 进行排版
+## 🧾 目录
+
+- 谈谈系列
+  - [谈谈对事件循环的理解]()
+- 写写系列
+  - [写写 bind 函数]()
+- 算法系列
+- 实用技巧
+  - [创建固定比例的盒子]()
+
+## 💬 后记
+
+- 排版：此博客所有内容均按照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 进行排版
