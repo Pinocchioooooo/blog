@@ -1,12 +1,16 @@
-<h2 align="center">My Blog</h2>
+<h2 align="center">
+  My Blog
+  <img src="./assets/coding.gif" alt="coding" width="100px" align="right" />
+</h2>
 
 <p align="center">
-`<samp>
+  <samp>
     <a target="_blank" href="https://github.com/pinocchioooooo/blog">blog</a> · 
     <a target="_blank" href="https://leetcode-cn.com/u/pinocchioooo">leetcode</a> ·  
     <a target="_blank" href="https://juejin.cn/user/2682464101477742">juejin</a> · 
     <a target="_blank" href="https://weibo.com">weibo</a>
   </samp>
+
 </p>
 
 ## ✍🏻 前言
