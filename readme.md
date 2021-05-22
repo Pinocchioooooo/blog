@@ -1,6 +1,5 @@
 <h2 align="center">
   My Blog
-  <img src="./assets/coding.gif" alt="coding" width="100px" align="right" />
 </h2>
 
 <p align="center">
